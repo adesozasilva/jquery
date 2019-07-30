@@ -1,1 +1,1 @@
-# Manipulando o DOM com jQuery
+# Manipulating DOM with Jquery
